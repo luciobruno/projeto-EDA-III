@@ -1,0 +1,83 @@
+1|A Sombra do Viajante|Elena Faria|978-85-333-0242-2|Fantasia|75.50|10|HarperCollins|Uma saga épica sobre mundos distantes e magia ancestral.
+2|O Código de Ávalon|Ricardo Mendes|978-85-325-1101-0|Mistério|50.00|15|Rocco|Um antigo segredo ressurge para mudar o curso da história.
+3|Estrelas de Papel|Sofia Almeida|978-85-221-0616-0|Romance|40.00|7|Companhia das Letras|Um amor improvável floresce sob um céu de sonhos.
+4|O Guardião da Montanha Azul|Lucas Pereira|978-85-7827-063-4|Aventura|25.00|20|Agir|Uma jornada perigosa em busca de um artefato lendário.
+5|Cidade das Cinzas|Julia Santos|978-85-60280-01-7|Distopia|62.90|12|Editora Lumina|Em um futuro sombrio, a esperança reside nos rebeldes.
+6|O Último Alquimista|Mateus Costa|978-85-7657-321-5|Fantasia Histórica|88.00|8|Edições Pegasus|A busca pela pedra filosofal em meio a segredos e traições.
+7|Noites de Tormenta|Isabella Oliveira|978-85-7980-123-4|Suspense|49.50|18|Astral Livros|Um assassino à solta e uma detetive com um passado obscuro.
+8|O Menino que Colecionava Nuvens|Pedro Martins|978-85-8041-555-9|Infantil|35.00|25|Chronos Books|A imaginação de uma criança transforma o mundo ao seu redor.
+9|Memórias de um Gato Escritor|Laura Silva|978-85-99706-78-1|Comédia|42.30|11|Editora Horizonte|As aventuras e desventuras de um felino com talento para as palavras.
+10|A Herdeira do Sol|Gabriel Ferreira|978-85-7542-887-0|Fantasia Épica|95.20|9|Nova Fronteira|Uma jovem princesa descobre seus poderes para salvar seu reino.
+11|Conexão Neural|Beatriz Souza|978-65-5560-001-2|Ficção Científica|71.80|14|Porto Editora|No futuro, as mentes estão interligadas, mas a que custo?
+12|O Segredo da Orquídea Negra|Enzo Rodrigues|978-65-86040-10-3|Mistério|53.40|16|Edições Saga|Um botânico excêntrico e uma flor mortal são o centro de um crime.
+13|Réquiem para um Sonho Partido|Ana Clara Dias|978-85-359-1467-5|Drama|58.00|6|Tellus Editora|A dura realidade da perda e a busca por um novo começo.
+14|Os Piratas do Mar de Safira|João Miguel Alves|978-85-7164-999-0|Aventura|65.75|19|Editora Cosmos|Tesouros escondidos, batalhas navais e a lenda de um capitão fantasma.
+15|Manual do Pequeno Cientista|Maria Luiza Barros|978-85-08-13000-0|Educacional|30.00|30|Alquimia Livros|Experimentos divertidos para despertar a curiosidade das crianças.
+16|A Maldição do Espelho Dourado|Carlos Eduardo Lima|978-85-62525-13-9|Terror|47.90|13|Oráculo Edições|Um objeto antigo carrega uma presença maligna que assombra uma família.
+17|Poemas ao Vento|Letícia Gomes|978-85-260-1005-7|Poesia|28.50|22|Papiro Selvagem|Versos que capturam a beleza efêmera da natureza e dos sentimentos.
+18|Negócios de Sucesso: Guia Prático|Fernando Azevedo|978-85-65479-00-1|Negócios|99.90|5|Fênix Literária|Estratégias e dicas para empreendedores alcançarem o topo.
+19|O Sorriso de Pandora|Mariana Carvalho|978-85-9454-032-1|Thriller Psicológico|69.00|10|Grifo Editorial|Uma psicóloga se envolve perigosamente com um paciente manipulador.
+20|Crônicas da Cidade Invisível|Rafael Moreira|978-85-67028-11-8|Realismo Mágico|55.60|17|Intrínseca|Eventos extraordinários acontecem em uma metrópole adormecida.
+21|A Filha da Tempestade|Alice Ribeiro|978-85-7683-001-1|Fantasia|72.30|11|Sextante|Nascida em meio ao caos, ela controla os elementos.
+22|Labirintos da Mente|Bruno Pinto|978-85-8230-245-6|Ficção Científica|68.40|9|Aleph|Um detetive explora memórias implantadas para resolver crimes.
+23|A Última Canção de Inverno|Manuela Freitas|978-85-7962-233-0|Romance Histórico|61.20|14|Record|Um amor proibido durante uma guerra que dividiu nações.
+24|O Colecionador de Almas|Gustavo Nogueira|978-85-61635-77-7|Terror Sobrenatural|51.80|8|Darkside Books|Uma entidade antiga busca completar sua coleção macabra.
+25|Viagem ao Coração da Terra Proibida|Daniel Rocha|978-85-7522-500-0|Aventura|44.90|21|Planeta|Exploradores enfrentam perigos desconhecidos em busca de uma civilização perdida.
+26|O Despertar do Dragão Adormecido|Helena Barbosa|978-85-8318-088-8|Fantasia Juvenil|39.90|26|Autêntica|Um jovem descobre ser o último elo de uma linhagem de domadores de dragões.
+27|Simplesmente Humano|Rodrigo Melo|978-85-9508-222-1|Autoajuda|50.50|15|Gente Editora|Encontrando significado e felicidade nas pequenas coisas da vida.
+28|A Teoria do Caos Aplicada ao Amor|Valentina Castro|978-85-8429-099-9|Comédia Romântica|48.70|12|Verus Editora|Dois cientistas descobrem que o amor não segue fórmulas.
+29|Os Guardiões do Tempo Perdido|Luiza Campos|978-85-7448-211-3|Viagem no Tempo|77.00|7|Global Editora|Agentes secretos viajam por eras para proteger a linha temporal.
+30|Fragmentos de um Céu Estrelado|Gabriela Monteiro|978-85-64407-33-2|Poesia Moderna|33.20|18|Editora Patuá|Poemas que refletem sobre a urbanidade e a solidão contemporânea.
+31|O Enigma da Vila Neblina|Clara Fagundes|978-85-7302-999-8|Mistério Infantil|29.90|23|FTD Educação|Crianças detetives desvendam um mistério em sua pequena cidade.
+32|Sombras do Império Caído|Felipe Araujo|978-85-7930-654-3|Fantasia Sombria|82.10|10|Leya Brasil|Heróis relutantes lutam contra as forças das trevas em um mundo devastado.
+33|A Cor da Vingança|Larissa Batista|978-85-60280-98-7|Suspense Policial|56.50|16|Gutenberg|Uma detetive busca justiça pela morte de seu parceiro, custe o que custar.
+34|Quando os Robôs Sonham|Samuel Dantas|978-85-7657-401-4|Ficção Científica Filosófica|66.80|11|Editora Évora|A inteligência artificial questiona sua existência e propósito.
+35|O Sabor das Lembranças|Patrícia Lacerda|978-85-7980-201-9|Drama Familiar|52.90|13|Tordesilhas Livros|Segredos de família vêm à tona através de receitas antigas.
+36|A Busca pela Flor Lunar|André Bastos|978-85-8041-602-0|Aventura Fantástica|41.75|20|Biruta|Uma expedição mágica em busca de uma flor com poderes curativos.
+37|O Orfanato das Almas Perdidas|Vanessa Henriques|978-85-99706-82-8|Terror Gótico|49.00|9|Wish Editora|Crianças com dons sobrenaturais vivem em um orfanato assombrado.
+38|Diário de um Viajante Intergaláctico|Vinícius Teixeira|978-85-7542-930-3|Comédia Sci-Fi|43.50|17|Morro Branco|As hilárias desventuras de um humano explorando a galáxia.
+39|O Legado da Serpente Emplumada|Camila Werner|978-65-5560-050-0|Fantasia Mitológica|89.90|6|Skript Editora|Baseado em mitos mesoamericanos, uma guerra entre deuses e mortais.
+40|A Arte de Recomeçar|Renato Drummond|978-65-86040-15-8|Autoajuda Motivacional|55.00|24|Citadel Editora|Um guia para superar adversidades e construir uma nova trajetória.
+41|A Conspiração dos Sete Reinos|Eduarda Borges|978-85-359-1500-9|Alta Fantasia|92.00|10|Editora Draco|Intrigas palacianas e batalhas épicas pelo controle de um continente.
+42|O Sussurro das Ondas|Leonardo Pires|978-85-7164-901-3|Romance Contemporâneo|46.80|19|Jangada Editora|Um encontro casual em uma praia isolada transforma duas vidas.
+43|Contos da Meia-Noite Urbana|Júlia Vasconcelos|978-85-08-13330-8|Contos Urbanos|38.60|14|Nemo Editora|Pequenas histórias que revelam o lado oculto da vida na cidade.
+44|O Código Secreto dos Ventos|Marcelo Antunes|978-85-62525-19-1|Aventura Juvenil|36.70|22|Avec Editora|Um grupo de amigos decifra pistas deixadas por um antigo explorador.
+45|Heróis de Silício|Rebeca Figueiredo|978-85-260-1123-8|Tecno-Thriller|73.40|12|Pipoca & Nanquim|Hackers lutam contra uma corporação que controla a informação global.
+46|O Sol Negro de Akhenaton|Sérgio Queiroz|978-85-65479-05-6|Ficção Histórica|64.50|8|Penumbra Livros|No Egito Antigo, um faraó revolucionário enfrenta a ira dos deuses antigos.
+47|Flores Raras em Jardins Comuns|Tatiana Correia|978-85-9454-040-6|Drama Poético|51.20|15|Editora Nós|A beleza e a resiliência encontradas em vidas aparentemente ordinárias.
+48|A Máquina de Criar Universos|Fábio Guimarães|978-85-67028-19-4|Ficção Científica Conceitual|78.90|7|Devir Livraria|Cientistas descobrem um dispositivo capaz de gerar realidades alternativas.
+49|O Chamado do Abismo Congelado|Bianca Sampaio|978-85-7683-030-1|Terror Cósmico|59.90|11|Macabra Filmes & Livros|Uma expedição ao Ártico desperta um horror ancestral e indescritível.
+50|A Última Profecia Maia|Alexandre Nunes|978-85-8230-270-8|Aventura Arqueológica|67.30|10|Zahar|Uma corrida contra o tempo para impedir que uma antiga profecia se cumpra.
+51|O Reino dos Grifos Dourados|Carolina Esteves|978-85-7962-255-2|Fantasia Clássica|76.00|13|Valentina|Uma jovem camponesa é a única esperança para um reino mágico em perigo.
+52|No Limite da Realidade Virtual|Diego Bernardes|978-85-61635-88-3|Cyberpunk|62.70|9|NewPOP Editora|Em um futuro distópico, a linha entre o real e o virtual se desfaz.
+53|A Biblioteca dos Segredos Sussurrados|Amanda Franco|978-85-7522-512-3|Mistério Literário|54.80|16|Figura Editora|Livros antigos guardam pistas para um crime não resolvido.
+54|Guerreiros da Aurora Escarlate|Ricardo Novais|978-85-8318-099-4|Aventura Épica|70.50|11| Jambô Editora|Uma irmandade de guerreiros luta para proteger o mundo das sombras.
+55|O Sabor Amargo da Verdade|Paula Andrada|978-85-9508-244-3|Drama Jurídico|57.90|14|Faro Editorial|Uma advogada idealista enfrenta um caso que abala suas convicções.
+56|Poemas de Amor e Despedida|Marcos Vinícius Cruz|978-85-8429-111-8|Poesia Romântica|31.00|20|Giostri Editora|Sentimentos profundos traduzidos em versos tocantes.
+57|O Manual do Jovem Explorador Urbano|Cláudia Werner|978-85-7448-233-5|Infantil Educacional|34.50|25|Melhoramentos|Descobrindo os segredos e maravilhas escondidos na cidade.
+58|A Rebelião dos Androides|Samuel Xavier|978-85-64407-44-8|Ficção Científica Ação|69.20|10|Conrad Editora|Máquinas com consciência lutam por sua liberdade contra a humanidade.
+59|O Mistério do Farol Assombrado|Beatriz Lins|978-85-7302-900-4|Suspense Juvenil|40.30|18|Positivo|Um grupo de adolescentes investiga lendas sobre um farol abandonado.
+60|Entre Mundos e Magias|Gustavo Prado|978-85-7930-677-2|Fantasia Portal|79.80|8|Mundo Fantástico|Um jovem comum descobre uma passagem para um reino de magia.
+61|As Crônicas do Cavaleiro de Prata|Elena Faria|978-85-60280-02-4|Fantasia Medieval|72.00|12|Editora Lumina|A jornada de um nobre cavaleiro em busca de honra e redenção.
+62|O Despertar da Fênix Rubra|Ricardo Mendes|978-85-7657-322-2|Mitologia Fantástica|85.50|9|Edições Pegasus|Um artefato antigo concede o poder da Fênix a um herói inesperado.
+63|Jardim Secreto das Palavras|Sofia Almeida|978-85-7980-124-1|Romance Poético|47.50|15|Astral Livros|Cartas de amor trocadas revelam um jardim de sentimentos.
+64|A Cidade Submersa de Zailan|Lucas Pereira|978-85-8041-556-6|Aventura Subaquática|63.20|17|Chronos Books|Exploradores descobrem uma civilização perdida no fundo do oceano.
+65|Protocolo Gênesis|Julia Santos|978-85-99706-79-8|Tecno-Thriller|70.10|11|Editora Horizonte|Um vírus de computador ameaça a infraestrutura global.
+66|O Grimório Perdido de Merlin|Mateus Costa|978-85-7542-888-7|Fantasia Arturiana|93.00|7|Nova Fronteira|A busca pelo livro de feitiços mais poderoso de todos os tempos.
+67|Canções da Alma Noturna|Isabella Oliveira|978-65-5560-002-9|Poesia Gótica|39.80|19|Porto Editora|Versos que exploram a melancolia e a beleza da escuridão.
+68|O Ladrão de Sonhos Impossíveis|Pedro Martins|978-65-86040-11-0|Fantasia Urbana|55.30|14|Edições Saga|Um homem com a habilidade de entrar nos sonhos alheios.
+69|Teias da Traição|Laura Silva|978-85-359-1468-2|Espionagem|60.40|10|Tellus Editora|Uma agente dupla em uma trama complexa de lealdades divididas.
+70|O Tesouro do Corsário Fantasma|Gabriel Ferreira|978-85-7164-990-7|Aventura Pirata|67.00|20|Editora Cosmos|Caçadores de tesouros seguem um mapa amaldiçoado.
+71|A Pequena Inventora de Maravilhas|Beatriz Souza|978-85-08-13001-7|Infantil Científico|32.50|28|Alquimia Livros|Uma menina cria invenções incríveis em seu laboratório caseiro.
+72|A Mansão dos Ecos Silenciosos|Enzo Rodrigues|978-85-62525-14-6|Terror Psicológico|50.00|13|Oráculo Edições|Uma família se muda para uma casa com um passado perturbador.
+73|Odisseia Lunar|Ana Clara Dias|978-85-260-1006-4|Ficção Científica Espacial|74.70|8|Papiro Selvagem|A primeira colônia humana na Lua enfrenta um perigo inesperado.
+74|A Ascensão do Mago Sombrio|João Miguel Alves|978-85-65479-01-8|Alta Fantasia|91.20|6|Fênix Literária|Um jovem aprendiz é seduzido pelo poder da magia negra.
+75|O Segredo da Bailarina de Cristal|Maria Luiza Barros|978-85-9454-033-8|Mistério Juvenil|44.80|16|Grifo Editorial|Uma estatueta de bailarina é a chave para um enigma familiar.
+76|Cidade das Engrenagens Enferrujadas|Carlos Eduardo Lima|978-85-67028-12-5|Steampunk|68.90|11|Intrínseca|Em uma cidade movida a vapor, um inventor luta contra um tirano.
+77|O Voo da Borboleta Dourada|Letícia Gomes|978-85-7683-002-8|Realismo Fantástico|53.60|18|Sextante|A aparição de uma borboleta rara anuncia grandes mudanças.
+78|Constelações Familiares: A Cura|Fernando Azevedo|978-85-8230-246-3|Terapia Alternativa|59.50|12|Aleph|Explorando os laços ancestrais para resolver conflitos presentes.
+79|A Fortaleza dos Ventos Uivantes|Mariana Carvalho|978-85-7962-234-7|Aventura Medieval|66.30|10|Record|Guerreiros defendem uma fortaleza estratégica de invasores.
+80|O Enigma do Relógio Celestial|Rafael Moreira|978-85-61635-78-4|Mistério Científico|71.50|9|Darkside Books|Um antigo artefato astronômico pode prever o futuro ou causar o caos.
+81|A Princesa dos Corais Vermelhos|Alice Ribeiro|978-85-7522-501-7|Fantasia Marinha|41.00|23|Planeta|Uma sereia princesa precisa salvar seu reino submerso.
+82|Academia de Caçadores de Sombras|Bruno Pinto|978-85-8318-089-5|Fantasia Urbana Juvenil|45.70|21|Autêntica|Jovens aprendem a combater criaturas sobrenaturais.
+83|A Simplicidade do Agora|Rodrigo Melo|978-85-9508-223-8|Mindfulness|52.20|17|Gente Editora|Técnicas para viver o presente e reduzir o estresse.
